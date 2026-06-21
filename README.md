@@ -14,4 +14,4 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ![Detalhes](public/assets/img/Detalhes.png)
 
-![Dados](DadosJS.png)
+![Dados](public/assets/img/DadosJS.png)

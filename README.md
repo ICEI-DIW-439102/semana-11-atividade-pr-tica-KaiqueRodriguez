@@ -5,12 +5,13 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Kaique Rodrigues do Vale
+- Matricula: 913328
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![HomePage](/public/assets/img/Homepage.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![Detalhes](public/assets/img/Detalhes.png)
 
+![Dados](DadosJS.png)
